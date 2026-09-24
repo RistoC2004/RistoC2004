@@ -64,4 +64,3 @@ Southern Alberta Institute of Technology (SAIT) — 2026
 
 📍 Calgary, Alberta  
 📧 ristocaissie1@gmail.com  
-📞 403-630-2376
