@@ -6,7 +6,8 @@ I build web and mobile applications using React, TypeScript, React Native, Next.
 
 ## Featured Projects
 
-### 💳 MoneyBack
+### 💳 [MoneyBack](https://github.com/RistoC2004/moneyback-ios)
+
 Production iOS application for tracking purchases and return deadlines.
 
 - React Native
@@ -16,7 +17,8 @@ Production iOS application for tracking purchases and return deadlines.
 - RevenueCat subscriptions
 - EAS / App Store deployment
 
-### 📸 One Day
+### 📸 [One Day](https://github.com/RistoC2004/one-day-app)
+
 Private social application built around small groups sharing one daily moment.
 
 - React Native
@@ -28,18 +30,20 @@ Private social application built around small groups sharing one daily moment.
 - Storage
 - Server-side application logic
 
-### 🛍️ QueryLift
+### 🛍️ [QueryLift](https://github.com/RistoC2004/querylift-shopify)
+
 Shopify application focused on improving merchant product data and workflows.
 
-- React
 - TypeScript
+- React Router
 - Shopify GraphQL
 - Webhooks
 - Automated testing
 - Production-oriented reliability work
 
-### 🐾 Petfolio
-Eight-month SAIT Software Development capstone project.
+### 🐾 [Petfolio](https://github.com/RistoC2004/petfolio-capstone)
+
+Eight-month SAIT Software Development capstone project focused on pet health, budgeting and expense tracking.
 
 - React Native
 - Expo
@@ -48,11 +52,26 @@ Eight-month SAIT Software Development capstone project.
 - Financial tracking and analytics
 - Team-based software development
 
+### 🎯 [Domino](https://github.com/RistoC2004/domino-app)
+
+Daily group challenge app built around private groups completing shared challenges.
+
+- React Native
+- Expo
+- TypeScript
+- Supabase
+- PostgreSQL
+- Edge Functions
+- Push notifications
+
 ## Tech
 
-**Languages:** TypeScript, JavaScript, Python, C#, Java, SQL  
-**Frontend:** React, React Native, Next.js, HTML, CSS  
-**Backend & Data:** Node.js, Supabase, PostgreSQL, REST APIs, GraphQL  
+**Languages:** TypeScript, JavaScript, Python, C#, Java, SQL
+
+**Frontend:** React, React Native, Next.js, HTML, CSS
+
+**Backend & Data:** Node.js, Supabase, PostgreSQL, REST APIs, GraphQL
+
 **Tools:** Git, GitHub, Expo, EAS, Vercel, VS Code
 
 ## Education
@@ -63,4 +82,4 @@ Southern Alberta Institute of Technology (SAIT) — 2026
 ## Contact
 
 📍 Calgary, Alberta  
-📧 ristocaissie1@gmail.com  
+📧 ristocaissie1@gmail.com
